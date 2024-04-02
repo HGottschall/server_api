@@ -3,7 +3,11 @@
   [
     {
       "id":1,
-      "username": "henry2"
-    }
+      "username": "henry"
+    },
+    {
+      "id":2,
+      "username": "joaninha"
+    },
   ]
 }
