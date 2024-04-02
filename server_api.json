@@ -2,12 +2,9 @@
   "data": 
   [
     {
-      "id":1,
-      "username": "henry"
-    },
-    {
-      "id":2,
-      "username": "joaninha"
+      "id": "Henry",
+      "name": "Valen",
+      "isAllowed": false
     }
   ]
 }
